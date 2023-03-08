@@ -1,4 +1,4 @@
-package sixtynine_two;
+package sixtyNine_two;
 
 import java.util.Locale;
 import java.util.Scanner;

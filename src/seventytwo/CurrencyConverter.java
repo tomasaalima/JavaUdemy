@@ -1,4 +1,4 @@
-package seventytwo;
+package seventyTwo;
 
 public class CurrencyConverter {
 	public static final double IOF = 0.06;

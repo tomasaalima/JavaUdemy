@@ -1,4 +1,4 @@
-package sixtynine_two;
+package sixtyNine_two;
 
 public class Employee {
 	String name;

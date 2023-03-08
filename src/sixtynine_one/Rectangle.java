@@ -1,4 +1,4 @@
-package sixtynine_one;
+package sixtyNine_one;
 
 public class Rectangle {
 	Float width;
